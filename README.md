@@ -23,6 +23,8 @@ Matrix Inverse Calculator is a desktop application for calculating the inverse o
 2. Build the project using Qt Creator or another C++ IDE with Qt support.
 3. Run the generated executable.
 
+---
+
 ## Usage
 1. Launch the application.
 2. Select the matrix size (from 2×2 up to 10×10).
